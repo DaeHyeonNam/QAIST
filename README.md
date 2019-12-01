@@ -4,6 +4,7 @@
 * Two independent speech-emotion prediction models are used. 
 * They act as independent classifiers.
 * Then, by ensemble method, we combine the predictions and output the final prediction.
+![Overall model structure](structure.png)
 
 # Code 
 * Ensemble.ipynb:
